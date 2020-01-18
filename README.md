@@ -1,6 +1,6 @@
 # electron_vue_app
 
-![nodejs v10.18.1](https://nodejs.org/download/release/v10.18.1/)
+[nodejs v10.18.1](https://nodejs.org/download/release/v10.18.1/)
 
 > com.electron.vue.app1
 
