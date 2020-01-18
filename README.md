@@ -4,7 +4,11 @@
 
 **Powser shell**
 ```bash
-vue init simulatedgreg/electron-vue electron_vue_app
+vue init simulatedgreg/electron-vue electron_vue_app  
+
+npm run dev  
+cnpm run dev  
+yarn run dev
 ```
 
 #### Office Build Setup
