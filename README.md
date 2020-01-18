@@ -14,6 +14,15 @@ cnpm run dev
 yarn run dev
 ```
 
+Package.json:
+```xml
+"build":{
+    "electronDownload": {
+      "mirror": "https://npm.taobao.org/mirrors/electron/"
+    }
+}
+```
+
 #### Office Build Setup
 
 ``` bash
