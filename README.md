@@ -6,6 +6,8 @@
 ```bash
 vue init simulatedgreg/electron-vue electron_vue_app  
 
+cnpm install  
+
 npm run dev  
 cnpm run dev  
 yarn run dev
