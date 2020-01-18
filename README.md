@@ -23,6 +23,12 @@ Package.json:
 }
 ```
 
+build exe
+```shell
+npm run build
+```
+
+**See also:**
 #### Office Build Setup
 
 ``` bash
