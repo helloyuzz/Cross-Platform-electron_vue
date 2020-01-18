@@ -2,7 +2,12 @@
 
 > com.electron.vue.app1
 
-#### Build Setup
+**Powser shell**
+```bash
+vue init simulatedgreg/electron-vue electron_vue_app
+```
+
+#### Office Build Setup
 
 ``` bash
 # install dependencies
