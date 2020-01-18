@@ -4,6 +4,7 @@
 
 **Powser shell**
 ```bash
+cnpm install vue-cli
 vue init simulatedgreg/electron-vue electron_vue_app  
 
 cnpm install  
